@@ -1,11 +1,14 @@
 _repo: Essays-and-Dialogues_52356
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Operette morali. English
 contributor:
   translator:
     agent_name: Edwardes, Charles
     gutenberg_agent_id: '46809'
     url: http://www.gutenberg.org/2009/agents/46809
+covers:
+- cover_type: archival
+  image_path: 52356-h/images/cover_leop.jpg
 creator:
   author:
     agent_name: Leopardi, Giacomo
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8593
     wikipedia: http://en.wikipedia.org/wiki/Giacomo_Leopardi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52356#Essays-and-Dialogues
 gutenberg_issued: '2016-06-17'
 gutenberg_type: Text
 identifiers:
