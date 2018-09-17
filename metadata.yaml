@@ -1,0 +1,50 @@
+_repo: Essays-and-Dialogues_52356
+_version: 0.0.1
+alternative_title: Operette morali. English
+contributor:
+  translator:
+    agent_name: Edwardes, Charles
+    gutenberg_agent_id: '46809'
+    url: http://www.gutenberg.org/2009/agents/46809
+creator:
+  author:
+    agent_name: Leopardi, Giacomo
+    aliases:
+    - Leopardi, G. (Giacomo)
+    - Leopardi, Giacomo, conte
+    - Papareschi, Cosimo
+    birthdate: 1798
+    deathdate: 1837
+    gutenberg_agent_id: '8593'
+    url: http://www.gutenberg.org/2009/agents/8593
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Leopardi
+description: ''
+gutenberg_issued: '2016-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PQ'
+- !lcsh 'Italian literature -- Translations into English'
+- !lcsh 'Dialogues'
+- GITenberg
+tableOfContents: Biographical sketch -- History of the human race -- Dialogue between
+  Hercules and Atlas -- Dialogue between Fashion and Death -- Prize competition announced
+  by the Academy of Sillographs -- Dialogue between a goblin and a gnome -- Dialogue
+  between Malambruno and Farfarello -- Dialogue between Nature and a soul -- Dialogue
+  between the Earth and the Moon -- The wager of Prometheus -- Dialogue between a
+  natural philosopher and a metaphysician -- Dialogue between Tasso and his familiar
+  spirit -- Dialogue between Nature and an Icelander -- Parini on glory -- Dialogue
+  between Frederic Ruysch and his mummies -- Remarkable sayings of Philip Ottonieri
+  -- Dialogue between Christopher Columbus and Pietro Gutierrez -- Panegyric of birds
+  -- The song of the wild cock -- Dialogue between Timandro and Eleandro -- Copernicus
+  -- Dialogue between an almanac seller and a passer-by -- Dialogue between Plotinus
+  and Porphyrius -- Comparison of the last words of Marcus Brutus and Theophrastus
+  -- Dialogue between Tristano and a friend.
+title: Essays and Dialogues
+url: http://www.gutenberg.org/ebooks/52356
